@@ -56,7 +56,7 @@ body {
     transition: var(--transition);
 }
 
-.navbar.scrolled {
+.navbarx.scrolled {
     background: var(--bg-glass);
     backdrop-filter: blur(16px);
 }
