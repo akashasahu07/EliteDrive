@@ -63,7 +63,7 @@ const cars = [
 ];
 
 // DOM Elements
-const navbar = document.getElementById('navbar');
+const navbar = document.getElementById('navbarx');
 const themeToggle = document.getElementById('themeToggle');
 const mobileMenuBtn = document.getElementById('mobileMenuBtn');
 const mobileCloseBtn = document.getElementById('mobileCloseBtn');
