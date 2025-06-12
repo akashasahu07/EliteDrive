@@ -174,7 +174,7 @@ function openModal(car) {
                 <div style="font-size: 2rem; color: var(--primary-color); font-weight: bold; margin: 1rem 0;">
                     ₹${inrPrice}
                 </div>
-                <p style="line-height: 1.6; color: var(--text-secondary);">
+                <p style="line-height: 1.6; color: #f8fafc;">
                     ${car.description}
                 </p>
                 <button style="margin-top: 2rem; padding: 1rem 2rem; background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)); color: white; border: none; border-radius: 10px; cursor: pointer; font-size: 1.1rem;" onclick="contactAboutCar('${car.name}')">
